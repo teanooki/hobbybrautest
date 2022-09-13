@@ -4,4 +4,4 @@ description: "HobbyBrau Hamburg"
 
 # build settings
 markdown: kramdown
-theme: odin
+theme: minima
