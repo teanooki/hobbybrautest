@@ -1,0 +1,7 @@
+# global settings
+title: "HobbyBrau Hamburg"
+description: "HobbyBrau Hamburg"
+
+# build settings
+markdown: kramdown
+theme: odin
